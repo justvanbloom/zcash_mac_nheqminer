@@ -24,6 +24,7 @@ Special thanks to [Zcash Community on Slack](https://zcashcommunity.slack.com)
 ## Credits
 
 Author of this miner: Kost
+
 Author of Mac GUI for this miner: JustVanBlooM
 
 ## Donations
