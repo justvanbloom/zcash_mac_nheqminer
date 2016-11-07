@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ZCash Miner Changelog</title>
+        <link>https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/appcast.xml</link>
+        <description>Changes for ZCash Miner.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1</title>
+            <description>
+            Saving
+             </description>
+            <pubDate>Tue, 8 Nov 2016 00:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="5636532" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
