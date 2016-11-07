@@ -11,7 +11,7 @@
             Saving
              </description>
             <pubDate>Tue, 8 Nov 2016 00:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="2626650" type="application/octet-stream" />
+            <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1" length="2626650" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
     </channel>
