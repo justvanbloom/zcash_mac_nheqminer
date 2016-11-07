@@ -16,9 +16,13 @@ ___
 ## Acknowledgements
 
 This miner is based on Equihash Miner for NiceHash
+
 Thanks to Zcash developers for providing most of the code
+
 Special thanks to tromp for providing optimized CPU equihash solver
+
 Special thanks to xenoncat for providing assembly optimized CPU equihash solver
+
 Special thanks to [Zcash Community on Slack](https://zcashcommunity.slack.com)
 
 ## Credits
