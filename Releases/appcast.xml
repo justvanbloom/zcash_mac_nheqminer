@@ -23,5 +23,14 @@
             <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_2.0.zip" sparkle:version="2" sparkle:shortVersionString="2" length="2625229" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
+        <item>
+            <title>Version 3.0</title>
+            <description>
+            Support for macOS 10.10 added
+             </description>
+            <pubDate>Tue, 8 Nov 2016 10:45:00 +0000</pubDate>
+            <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_3.0.zip" sparkle:version="3" sparkle:shortVersionString="3" length="2637182" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
