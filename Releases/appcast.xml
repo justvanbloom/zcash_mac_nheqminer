@@ -14,5 +14,14 @@
             <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_1.1.zip" sparkle:version="1" sparkle:shortVersionString="1" length="2626650" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
+        <item>
+            <title>Version 2.0</title>
+            <description>
+            Some small fixes, nothing special
+             </description>
+            <pubDate>Tue, 8 Nov 2016 02:15:00 +0000</pubDate>
+            <enclosure url="https://github.com/justvanbloom/zcash_mac_nheqminer/raw/master/Releases/ZcashMiner_1.1.zip" sparkle:version="2" sparkle:shortVersionString="2" length="2625229" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
