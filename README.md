@@ -1,4 +1,4 @@
-# zcash_mac_heqminer
+# zcash_mac_nheqminer
 
 go straight to Release section: [click here](https://github.com/justvanbloom/zcash_mac_nheqminer/releases)
 
